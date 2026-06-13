@@ -21,7 +21,7 @@ Make sure Flutter is installed and configured correctly.
 Clone the repository:
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_LINK
+git clone git clone https://github.com/kadirigreat/responsive_user_card.git
 ```
 
 Move into the project folder:
