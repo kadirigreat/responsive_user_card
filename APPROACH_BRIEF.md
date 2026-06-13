@@ -1,0 +1,3 @@
+# Approach Brief
+
+I implemented the feature as a reusable `UserCard` stateless widget that receives a `User` data object through its constructor. The card uses the available screen width with padding around its edges so it remains readable across different screen sizes. I chose this approach instead of hardcoding the user details directly inside the card because passing an object makes the component reusable for other users. I kept the design simple so that the code remains easy to understand and maintain. I also added a widget test to confirm that the expected user information appears correctly. With more time, I would add a profile image, improve accessibility, and test how the card handles unusually long email addresses.
